@@ -1,0 +1,40 @@
+{
+  "name": "Juliane Cerqueira",
+  "profession": "Psicóloga clínica",
+  "registration": "CRP-03/23044",
+  "education": {
+    "degree": "Graduação em Psicologia",
+    "institution": "Faculdade Anísio Teixeira (FAT)",
+    "year": 2020
+  },
+  "clinical_practice_since": 2021,
+  "approach": "Terapia Cognitivo-Comportamental (TCC)",
+  "service": {
+    "type": "Psicoterapia individual online",
+    "duration": "50 a 60 minutos",
+    "audience": [
+      "adolescentes",
+      "adultos",
+      "pessoas idosas"
+    ],
+    "payment": [
+      "PIX",
+      "cartão"
+    ]
+  },
+  "contact": {
+    "email": "julianedasilvacerquerira@gmail.com",
+    "whatsapp": "https://wa.me/5575998470704",
+    "calendly": "https://calendly.com/julianedasilvacerquerira/juliane-cerqueira-psicologa-clinica-tcc"
+  },
+  "social_profiles": {
+    "Substack": "https://substack.com/@julianecerqueirapsi",
+    "LinkedIn": "https://www.linkedin.com/in/julianescerqueira/",
+    "YouTube": "https://www.youtube.com/@Julianecerqueirapsicologa",
+    "TikTok": "https://www.tiktok.com/@julianecpsicologa",
+    "Pinterest": "https://br.pinterest.com/julianecerquerirapsicologa/",
+    "Quora": "https://pt.quora.com/profile/Juliane-Cerqueira-1",
+    "X": "https://x.com/julianepsicolog",
+    "Instagram": "https://www.instagram.com/julianecerqueira.psicologa/"
+  }
+}
